@@ -12,7 +12,6 @@ This Android application is built using **Java in Android Studio** and provides 
 |-------------------|-------------------------------------------------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Programming language used for app logic |
 | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) | IDE used for Android development |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Backend-as-a-Service for authentication and database |
 | ![XML](https://img.shields.io/badge/XML%20Layouts-42A5F5?style=flat-square&logo=html5&logoColor=white) | UI Design using XML |
 | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) | Build automation tool for Java projects |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control for source code management |
@@ -27,7 +26,6 @@ This Android application is built using **Java in Android Studio** and provides 
 - ✅ User Registration  
 - 🔐 Secure Login Authentication  
 - 🏠 Homepage with user session  
-- 🔗 Firebase Integration (optional)  
 - ☕ Java-based (no Kotlin)  
 - 🎨 Designed with Material Components  
 
